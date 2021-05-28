@@ -6,7 +6,9 @@ public class Hello {
 System.out.println("Hello World");
 	System.out.println("Thanking you");	
 	System.out.println("New Change");	
-		System.out.println("End of Program");
+	System.out.println("Program");
+	System.out.println("EndProgram");
+	System.out.println("EndofProgram");
 	}
 
 }
